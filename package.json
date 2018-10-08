@@ -1,0 +1,30 @@
+{
+  "name": "webpack-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lemena86/webpack-2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lemena86/webpack-2/issues"
+  },
+  "homepage": "https://github.com/lemena86/webpack-2#readme",
+  "devDependencies": {
+    "babel-core": "^6.17.0",
+    "babel-loader": "^6.2.0",
+    "babel-preset-env": "^1.1.4",
+    "css-loader": "^1.0.0",
+    "extract-text-webpack-plugin": "^2.0.0-beta.4",
+    "image-webpack-loader": "^4.3.1",
+    "styles-loader": "^1.0.0",
+    "url-loader": "^1.1.1",
+    "webpack": "^2.2.0-rc.0"
+  }
+}
